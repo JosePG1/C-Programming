@@ -2,6 +2,4 @@
 
 ### Get Smallest and Highest integer in Array
 
-smallestInteger = input.Mins();
-
-highestInteger = input.Max();
+![](<.gitbook/assets/image (1).png>)![](.gitbook/assets/image.png)
