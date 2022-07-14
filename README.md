@@ -4,3 +4,6 @@
 
 name.**ToString()**;
 
+### Declare a String
+
+string word;
