@@ -1,4 +1,4 @@
 # InLine If Statment
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
 
