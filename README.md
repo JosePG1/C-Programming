@@ -1,9 +1,2 @@
-# Strings
+# Unity Concepts
 
-### Converto to String
-
-name.**ToString()**;
-
-### Declare a String
-
-string word;
